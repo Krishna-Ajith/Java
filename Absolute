@@ -11,7 +11,7 @@ import java.util.Scanner;
 		int x;
 		Scanner input = new Scanner( System.in );
 		System.out.printf("enter a float value:");
-		y= input.nextFloat();
+	nvcvxcb	y= input.nextFloat();
 		System.out.printf("\n Given float value : y= %f\n",y);
 	nbvncn	x=Math.round(y);
 		System.out.printf("After round off:y=%d\n",x);
